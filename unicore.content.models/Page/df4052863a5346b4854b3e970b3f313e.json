@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Le traitement fonctionne s\u2019il est administr\u00e9 rapidement", 
+  "language": "fre_FR", 
+  "title": "Comment traite-t-on la fi\u00e8vre de Lassa ?", 
+  "primary_category": "078f12f87fef4549b509aa1941516f66", 
+  "created_at": "2016-04-04T16:10:29.063775+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-04-04T16:10:29.064193+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Le traitement de la fi\u00e8vre Lassa consiste \u00e0 combattre les sympt\u00f4mes de la maladie. La progression du virus peut \u00eatre limit\u00e9e par un m\u00e9dicament, la Ribavirine. \r\n\r\nLe traitement fonctionne s\u2019il est administr\u00e9 rapidement apr\u00e8s l\u2019apparition des premiers sympt\u00f4mes : une forte fi\u00e8vre et une fatigue g\u00e9n\u00e9rale suivies des douleurs aux muscles, \u00e0 la t\u00eate, \u00e0 la gorge et au ventre, mais aussi des naus\u00e9es, vomissements et diarrh\u00e9es.  \r\n\r\nArticle suivant", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-traite-t-la-fievre-de-lassa", 
+  "uuid": "df4052863a5346b4854b3e970b3f313e"
+}
