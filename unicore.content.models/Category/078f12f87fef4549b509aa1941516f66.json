@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "078f12f87fef4549b509aa1941516f66", 
+  "language": "fre_FR", 
+  "title": "Informations sur l\u2019\u00e9pid\u00e9mie de fi\u00e8vre de Lassa", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "informations-sur-lepidemie-de-fievre-de-lassa", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
